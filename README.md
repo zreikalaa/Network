@@ -1,4 +1,4 @@
 # Network
 wireless security
--differnet protocol
+-different protocol
 -get the pass of wireless
